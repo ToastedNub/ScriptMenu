@@ -16,7 +16,7 @@
  - You just install dependencies (theres a file added to do that automatically)
  - Then they work
 # Additional Python Requirements
- - This how how to sownload Python, and FFMPEG to System PATH
+ - This how how to download and install Python, and FFMPEG to System PATH
  - These are the only Python things that are not automatic
  - Python: https://www.python.org (3.10.6 Works Best)
  - Python Guide: https://youtu.be/H7iqfv5dzRY
