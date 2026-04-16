@@ -7,6 +7,6 @@
 
 # NOTE
  - **If some C++ projects dont work**
- - - You need to download Visual Studio
+   - You need to download Visual Studio
    - Make sure to install `C++ Desktop Development Kit` with it
  - https://visualstudio.microsoft.com
