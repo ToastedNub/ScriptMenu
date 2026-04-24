@@ -28,6 +28,8 @@
  - Oneko For Windows (Linux desktop cat pet for windows, customizable sprites)
  - Screen Blocker (make images appear and move on screen to make things harder)
  - Memory ID Logger (for modders)
+ - Macro Recorder (not useful for games, especially with loading times)
+ - Click Sounds (plays sounds when u click or press keyboard buttons)
 
 # PUBLIC APPS (NOT MADE BY ME)
  - FlowFrames Interpolator (adds more fps to Videos and Gifs)
