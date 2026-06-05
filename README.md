@@ -1,3 +1,4 @@
+# [DOWNLOAD](https://github.com/ToastedNub/ScriptMenu/releases/download/ScriptMenu/ScriptMenu.V1.1.8.exe)
 # Main Info:
  - A Small app made to easily download things
  - Requests to add or make things are allowed in my server
