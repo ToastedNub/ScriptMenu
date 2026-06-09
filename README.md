@@ -1,3 +1,9 @@
+# READ THIS PART
+ - Most of the scripts in the PYTHON and the C++ Categories need FFMPEG
+ - There is an FFMPEG exe in the ASSETS folder, for each one that needs it
+ - If it does not work with that in the assets, drag the "ffmpeg.exe" file to the same folder the main app exe is in
+ - If this still for some reason does not work, you need FFMLEG installed to System PATH
+ - There is also an app in the C++ Category, called "FFMPEG Installer", this will automatically install FFMPEG to your System PATH
 # ScriptMenu
  - This is a Downloader App, built for Creators
  - Includes Upscalers, Interpolators, File Size Management, and a lot more
