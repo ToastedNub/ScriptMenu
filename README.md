@@ -4,6 +4,7 @@
  - If it does not work with that in the assets, drag the "ffmpeg.exe" file to the same folder the main app exe is in
  - If this still for some reason does not work, you need FFMLEG installed to System PATH
  - There is also an app in the C++ Category, called "FFMPEG Installer", this will automatically install FFMPEG to your System PATH
+ - [Optionally install manually](https://youtu.be/JR36oH35Fgg)
 # ScriptMenu
  - This is a Downloader App, built for Creators
  - Includes Upscalers, Interpolators, File Size Management, and a lot more
