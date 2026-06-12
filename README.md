@@ -5,7 +5,6 @@
  - The ones that can not be run on their own, these only need you to install either Python or NodeJS
  - [Python](https://www.python.org)
  - [NodeJS](https://nodejs.org/en)
- - [Discord](https://discord.gg/h5MVS3xbjV)
 # App Preview
 ![SriptMenu](https://github.com/ToastedNub/ScriptMenu/blob/main/ScriptMenu/Menu.png?raw=true)
 # Apps Lists
