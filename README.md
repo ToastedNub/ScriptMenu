@@ -1,25 +1,14 @@
-# READ THIS PART
- - Most of the scripts in the PYTHON and the C++ Categories need FFMPEG
- - There is an FFMPEG exe in the ASSETS folder, for each one that needs it
- - If it does not work with that in the assets, drag the "ffmpeg.exe" file to the same folder the main app exe is in
- - If this still for some reason does not work, you need FFMLEG installed to System PATH
- - There is also an app in the C++ Category, called "FFMPEG Installer", this will automatically install FFMPEG to your System PATH
- - [Optionally install manually](https://youtu.be/JR36oH35Fgg)
 # ScriptMenu
  - This is a Downloader App, built for Creators
  - Includes Upscalers, Interpolators, File Size Management, and a lot more
- - C++ Apps can run on their own, they are Pre-Built into an exe, but Source Code is included in the Release
- - Python Apps require [Python](https://www.python.org) **(3.10.6 works best)**, and [FFMPEG](https://ffmpeg.org), the rest are installed through pip commands
- - JavaScript Apps require [NodeJS](https://nodejs.org/en)
+ - Most of the Apps in the Main Apps in this, can be run without needing to download or install anything extra
+ - The ones that can not be run on their own, these only need you to install either Python or NodeJS
+ - [Python](https://www.python.org)
+ - [NodeJS](https://nodejs.org/en)
  - [Discord](https://discord.gg/h5MVS3xbjV)
-# Apps Lists
- - [C++](https://github.com/ToastedNub/ScriptMenu/releases/tag/C%2B%2BApps)
- - [Python](https://github.com/ToastedNub/ScriptMenu/releases/tag/PythonApps)
- - [JavaScript](https://github.com/ToastedNub/ScriptMenu/releases/tag/JavaScriptApps)
- # Source Code
- - [ScriptMenu](https://github.com/ToastedNub/ScriptMenu/releases/tag/ScriptMenuSource)
- - [C++](https://github.com/ToastedNub/ScriptMenu/releases/tag/CSource)
- - [Python](https://github.com/ToastedNub/ScriptMenu/releases/tag/PySource)
- - [JavaScript](https://github.com/ToastedNub/ScriptMenu/releases/tag/JSSource)
 # App Preview
 ![SriptMenu](https://github.com/ToastedNub/ScriptMenu/blob/main/ScriptMenu/Menu.png?raw=true)
+# Apps Lists
+ - [Main Apps List](https://github.com/ToastedNub/ScriptMenu/releases/tag/ScriptMenuAppsList)
+Only apps made by me are listed here, there are a lot more that are not made by me in the app
+ - [Nerds Only](https://github.com/ToastedNub/ScriptMenu/releases/tag/NerdsOnly)
